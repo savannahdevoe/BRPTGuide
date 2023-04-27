@@ -1,5 +1,5 @@
 # BRPTGuide
-How-to-guide, user manual, and miscellaneous files to construct and operate a BRPT (Blue Robotics Pressure and Temperature) instruments for measuring water temperature (C) and pressure (mbar). The BRPT samples at a rate of ~16 Hz and may be deployed (in its current design) for a period of 4-10 days (depending on battery capacity and environmental conditions) in up to 10 m of water depth. Original instrument designed, fabricated, and tested by Spencer Marquardt, M.S.
+How-to-guide, user manual, and miscellaneous files to construct and operate a BRPT (Blue Robotics Pressure and Temperature) instruments for measuring water temperature (C) and pressure (mbar). The BRPT samples at a rate of ~16 Hz and may be deployed (in its current design) for a period of 4-10 days (depending on battery capacity and environmental conditions) in up to 10 m of water depth. Original instrument designed, fabricated, and tested by Spencer Marquardt, M.S. (UNH '22G).
 
 PLEASE READ THE DISCLAIMERS AT THE END OF THIS README.
 
