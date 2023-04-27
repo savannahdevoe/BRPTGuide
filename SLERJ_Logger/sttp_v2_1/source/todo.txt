@@ -1,0 +1,3 @@
+ToDo
+- Add statistics and appropriate error reporting so user is aware of input
+  data file problems.
